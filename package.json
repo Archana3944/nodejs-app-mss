@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.110.143.2:9980/archanatechnologies/repository/nodejsAnnrepo/"
+    "registry": "http://13.234.112.46:9980/archanatechnologies/repository/nodejsAnnrepo/"
   },
   
   "scripts": {
